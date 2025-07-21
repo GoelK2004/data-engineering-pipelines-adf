@@ -1,6 +1,6 @@
 # Data Engineering Project
 
-This repository contains a set of data engineering tasks implemented using Azure Data Factory (ADF), SQL Server and Azure Data Lake Storage (ADLS). The objective is to create pipelines that can process data based on threshold conditions, handle time-based data operations and partitioning, and perform data transformation and integration.
+This repository contains a set of data engineering tasks implemented using Azure Data Factory(ADF), SQL Server and Azure Data Lake Storage(ADLS). The objective is to create pipelines that can process data based on threshold conditions, handle time-based data operations and partitioning, and perform data transformation and integration.
 
 ---
 
@@ -111,11 +111,29 @@ Save result as a Parquet file, sorted in ascending order.
 - File-driven configurations
 - Dynamic folder creation using timestamps
 - Joining structured & semi-structured data
-- Exporting data in optimized storage formats (JSON, Parquet)
+- Exporting data in optimized storage formats(JSON, Parquet)
 - Conditional pipeline logic and data transfer operations using thresholding.
+- 
+---
+
+## Acknowledgments
+I would like to sincerely thank Celebal Technologies to provide me the opportunity to be a part of Celebal Summer Internship Program, 2025.
+
+The mentorship, guidance and well structured sessions have greatly contributed towards my career and professional growth.
+
+Workshops and exposure to industry level tools and frameworks like:
+- SQL for working with relational data
+- Python and PySpark for data processing and transformation
+- Pandas for data manipulation
+- Azure Data Factory(ADF) for building and managing pipelines
+- Azure Data Lake Storage(ADLS) for handling cloud storage
+
+have helped me in understanding the core engineering concepts and best practices used in Data Engineering field.
+
+In addition to technical training, I am also grateful for the personalised training sessions focused on resume preparation, career guidance, which were instrumental in helping my plan my next steps
 
 ---
 
 ## Author
-This project was completed as part of a __Data Engineering insternship__. <br>
+This project was completed as part of a __Data Engineering Insternship__. <br>
 By: __Kartikey Goel__
