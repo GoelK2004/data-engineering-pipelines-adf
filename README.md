@@ -106,7 +106,7 @@ Save result as a Parquet file, sorted in ascending order.
 
 ---
 
-### Learning Outcomes
+## Learning Outcomes
 - Conditional execution in ADF pipelines
 - File-driven configurations
 - Dynamic folder creation using timestamps
@@ -116,6 +116,6 @@ Save result as a Parquet file, sorted in ascending order.
 
 ---
 
-### Author
+## Author
 This project was completed as part of a __Data Engineering insternship__. <br>
 By: __Kartikey Goel__
