@@ -113,7 +113,7 @@ Save result as a Parquet file, sorted in ascending order.
 - Joining structured & semi-structured data
 - Exporting data in optimized storage formats(JSON, Parquet)
 - Conditional pipeline logic and data transfer operations using thresholding.
-- 
+
 ---
 
 ## Acknowledgments
