@@ -117,7 +117,7 @@ Save result as a Parquet file, sorted in ascending order.
 ---
 
 ## Acknowledgments
-I would like to sincerely thank Celebal Technologies to provide me the opportunity to be a part of Celebal Summer Internship Program, 2025.
+I would like to sincerely thank __Celebal Technologies__ for providing me the opportunity to be a part of Celebal Summer Internship Program, 2025.
 
 The mentorship, guidance and well structured sessions have greatly contributed towards my career and professional growth.
 
